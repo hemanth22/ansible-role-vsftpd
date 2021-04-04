@@ -1,7 +1,7 @@
-Role Name
+vsftpd
 =========
 
-A brief description of the role goes here.
+vsftpd provision for centos.
 
 Requirements
 ------------
