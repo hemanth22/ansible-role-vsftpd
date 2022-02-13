@@ -13,7 +13,7 @@ name: Release
 
 defaults:
   run:
-    working-directory: 'hemanth22.kubeadm'
+    working-directory: 'hemanth22.vsftpd'
 
 jobs:
 
