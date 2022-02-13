@@ -1,7 +1,6 @@
 ---
 language: python
 services: docker
-sudo: required
 
 env:
   global:
